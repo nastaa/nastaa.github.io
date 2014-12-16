@@ -1,7 +1,9 @@
 ### About
 
-I’m PhD student in philosophy at [UEA][]. AOS: philosophy of language
-and linguistics AOC: logic, philosophy of science, cognitive science
+I did doctoral studies at [UEA][], and at present I'm a visiting scholar at [Pitt][]. 
+
+AOS: philosophy of language and linguistics 
+AOC: philosophical logic, philosophy of science
 Dissertation: economy-principles in linguistics
 
 ### Contact
@@ -24,6 +26,7 @@ private logic blog for our students My other places: [academia][],
 [facebook][] and [google+][] accounts.
 
   [UEA]: https://www.uea.ac.uk/philosophy/home
+  [Pitt]: http://www.philosophy.pitt.edu/
   [and.nasta@gmail.com]: mailto:and.nasta@gmail.com?Subject=Hell
   [Papers]: http://www.nastaa.org/papers/
   [Research]: http://www.nastaa.org/research/
