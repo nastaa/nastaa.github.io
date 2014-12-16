@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research
+---
+
 ### Main interests 
 
 Linguistics and linguistic economy I study the role of economy-principles in representing and/or explaining various aspects of natural language phenomena such as quantification, connectives, anaphora, conventional and scalar implicatures. My main focus is on scope and binding phenomena though.
