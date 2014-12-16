@@ -17,7 +17,7 @@ baseurl:             /
 paginate:            5
 
 # About/contact
-author: Andrei Nasta
+author:
   name:              Andrei Nasta
   url:               https://www.nastaa.org
   email:             and.nasta@gmail.com
