@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 ### About
 
 I did doctoral studies at [UEA][], and at present I'm a visiting scholar at [Pitt][]. 
