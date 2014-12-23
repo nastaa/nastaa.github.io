@@ -5,12 +5,15 @@ title: Research
 
 ### Main interests 
 
-Linguistics and linguistic economy I study the role of economy-principles in representing and/or explaining various aspects of natural language phenomena such as quantification, connectives, anaphora, conventional and scalar implicatures. My main focus is on scope and binding phenomena though.
-In my thesis I spell out the idea(s) of linguistic economy and then defend a broad economy-theoretic approach (roughly, along the lines of the Minimalist Program in linguistics). In particular, I defend a semantic notion of substantive economy.
+My main research interests are in the philosophy of language, and are closely related to issues in linguistics and philosophical logic.  
 
-Linguistic modalities I’m interested in how the standard modal semantics can accommodate information about degree of (un)certainty. I’m also interested in the potential role that the heuristic principle of removing contradictions might play in the modal semantics.
++ *anaphora under perspective*: anaphoric expressions refer back to their antecedents under a distinct perspective; I ask what is the typology of perspectival semantic values, and whether these perspectival values should be conceived as indexical, Fregean guises, or quantificational restrictors. 
++ *logic in natural language*: I argue that several explanatory strategies in linguistics (e.g. linguistic economy phenomena) make a substantive use of logical properties, and that this is a prima facie argument for the logicality of natural language.
++ *qualitative modalities*: I investigate how qualitative modalities can be a basis for quantitative ones (that is, quantitative probabilties). 
+
 
 ### Other interests
 
-Minds and machines I’m interested in mathematical logic and some related foundational notions of cognitive science: computation, complexity, and the frame problem(s).
-Geometry As for the long term projects, I would like to investigate some conceptual aspects of geometry: its relation to cognition (`visual’ reasoning) and language (does linguistic competence rely on `geometrical’ thinking?).
+I'm interested in some topics in the general philosophy of science, especially in relation to some historical figures such as Euclid and Descartes. 
+
++ I propose to look at scientific and mathematical explanation from a linguistic perspective; As a case study, I want to look at how geometrical explanation works in relation to non-geometrical modes of thinking. 
