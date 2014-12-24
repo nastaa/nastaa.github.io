@@ -2,9 +2,6 @@
 layout: page
 title: Papers
 ---
-<strong>Caveat</strong>: The papers are mostly at early stages of preparation.
-<em>Comments most welcome.</em>
-
 Many of my papers concerning several aspects of scope and binding are now incorporated in the thesis. <a href="http://www.nastaa.org/wp-content/uploads/thesis_abstract.pdf" title="Thesis Abstract">Here</a> is an abstract of the thesis and <a href="http://www.nastaa.org/wp-content/uploads/linguistic_economy.pdf" title="Varieties of Linguistic Economy">here</a> is the thesis itself. 
 
 <h3>Thesis</h3>
