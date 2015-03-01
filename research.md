@@ -29,9 +29,9 @@ I'm writing a paper that spells out the partial relation between qualitative and
 
 
 
-*Thesis*
+### Thesis
 
-Varieties of Linguistic Economy. Essays on Scope and Binding. 
+*Varieties of Linguistic Economy. Essays on Scope and Binding* 
 Andrei Nasta
 2014
 
