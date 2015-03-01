@@ -8,9 +8,9 @@ My work is on the semantics of indexicals, anaphora, and the scope of quantifier
 
 AOS: philosophy of language and linguistics    
 AOC: philosophical logic, philosophy of science    
-Dissertation: economy-principles in linguistics   
+[Dissertation](https://www.dropbox.com/s/k8229tw3tyl7dh6/linguistic_economy.pdf?dl=0): economy-principles in linguistics   
 
-Email: [and.nasta@gmail.com][]. My other places: [academia][],
+Email: [and.nasta@gmail.com][]. Vita: [CV](https://www.dropbox.com/s/01fgz1i3u2s5f5z/cv_nasta.pdf?dl=0) My other places: [academia][],
 [facebook][] and [google+][] accounts.
 
   [UEA]: https://www.uea.ac.uk/philosophy/home
