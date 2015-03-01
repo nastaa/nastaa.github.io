@@ -22,7 +22,7 @@ Another paper is about a category of pronouns that are alleged to have very spec
 ### Modality
 
 I have an interest in words that express uncertainty, namely probabilistic modals. 
-My main question is about the connection between qualitative and quantitative modals, e.g. *likely* vs *51\% likely*. 
+My main question is about the connection between qualitative and quantitative modals, e.g. *likely* vs *51% likely*. 
 The position I defended is this: although some regions of discourse certainly appeal to quantitative representations of uncertainty, (i) a qualitative approach can do more for the semantics of modality than usually recognised. And (ii) the relationship between quantitative and qualitative probabilities isn't simply a question of pragmatically adding a (quantitative) probability space on top of a qualitative semantics of modality; rather a more realistic relation between the semantic and pragmatic representations of linguistic uncertainty is a partial isomorphism between the qualitative and quantitative scales. As a result of their semantic and pragmatic competence, natural language speakers grasp only *partially* the quantitative probabilistic structures over possible worlds. 
 
 I'm writing a paper that spells out the partial relation between qualitative and quantitative modals by focusing on the contextual interpretations of statements such as *The more red balls are in the urn, the more preferable a red ball is* or *If there are not too many red balls, other balls are preferable*. In another paper I discuss a type of context sensitivity of deontic modals (e.g. *should*, *ought to*) based on a well-known decision-theoretic [thought experiment](http://en.wikipedia.org/wiki/Ellsberg_paradox "Ellsberg's Paradox"), which was presented by Ellsberg in the 1960s. This thought experiment shows that deontic modals are sensitive to all sorts of inconsistent constraints imposed by our cognitive capacity. On the basis of this observation, I propose---or rather reinforce---a division between semantic and pragmatic principles governing modality. 
@@ -31,8 +31,8 @@ I'm writing a paper that spells out the partial relation between qualitative and
 
 ### Thesis
 
-*Varieties of Linguistic Economy. Essays on Scope and Binding* 
-Andrei Nasta
+*Varieties of Linguistic Economy. Essays on Scope and Binding* \
+Andrei Nasta\
 2014
 
 In this work, I approach the topic of linguistic economy according to the following plan. 
