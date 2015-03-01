@@ -31,9 +31,9 @@ I'm writing a paper that spells out the partial relation between qualitative and
 
 ### Thesis
 
-*Varieties of Linguistic Economy. Essays on Scope and Binding* \
-Andrei Nasta\
-2014
+*Varieties of Linguistic Economy. Essays on Scope and Binding* 
+
+Andrei Nasta | 2014
 
 In this work, I approach the topic of linguistic economy according to the following plan. 
 I begin by presenting the principles that were at the origin of the linguistic economy accounts, and point to their key methodological motivations.  
