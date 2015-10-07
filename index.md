@@ -2,9 +2,7 @@
 layout: page
 ---
 
-
-I did my doctoral studies at the University of East Anglia, and am currently a visiting scholar in the department of philosophy at University of Pittsburgh.  
-My work is on the semantics of indexicals, anaphora, and the scope of quantifiers, modals and other operators. I also try to exploit insights from linguistic and philosophical semantics to approach issues in the general philosophy of science (concerning explanation), and in epistemology (concerning probabilistic reasoning). 
+I am a fellow at the Institute of Philosophy in London. I work mainly in the philosophy of language on two broad topics, anaphora and modality. I have further interests in the general philosophy of science (concerning explanation), and in philosophical logic (concerning probabilities and decision theory). 
 
 AOS: philosophy of language and linguistics    
 AOC: philosophical logic, philosophy of science    
