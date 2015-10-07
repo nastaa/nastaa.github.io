@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a fellow at the Institute of Philosophy in London. I work mainly in the philosophy of language on two broad topics, anaphora and modality. I have further interests in the general philosophy of science (concerning explanation), and in philosophical logic (concerning probabilities and decision theory). 
+I am a fellow at the Institute of Philosophy in London. I work mainly in the philosophy of language on two broad topics, anaphora and modality. I have further interests in the general philosophy of science (concerning explanation), and in epistemology/philosophical logic (concerning probabilistic and decision-theoretic reasoning). 
 
 AOS: philosophy of language and linguistics    
 AOC: philosophical logic, philosophy of science    
