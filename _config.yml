@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Andrei Nasta
-tagline:             '[into philosophy]'
+tagline:             '[researcher]'
 description:         'research interests, drafts, etc.'
 url:                 http://nastaa.github.io/
 baseurl:             /
