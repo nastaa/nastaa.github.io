@@ -1,8 +1,9 @@
 ---
 layout: page
+published: true
 ---
 
-I am a keen student of natural language with an inclination for the genarative perspective. My work is in the philosophy of language on two broad topics, anaphora and modality. I have further interests in the general philosophy of science (concerning explanation), and in epistemology/philosophical logic (concerning probabilistic and decision-theoretic reasoning). 
+I am a keen student of language with an inclination for the generative perspective, broadly conceived to include areas at the confluence between philosophy of language and linguistics. So far I have written about pronouns and other anaphoric noun phrases, and about modality. I have further interests in the general philosophy of science (concerning explanation) as well as in epistemology and philosophical logic (concerning probabilistic and decision-theoretic reasoning). 
 
 AOS: philosophy of language and linguistics    
 AOC: philosophical logic, philosophy of science    
